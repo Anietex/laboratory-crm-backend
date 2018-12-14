@@ -1,0 +1,157 @@
+{
+"lipid_profile":{
+"total_cholesterol":{
+"test":"Total Chelesterol","value":"","unit":"mmo1/L","normal":"0 - 5.2"
+},
+"triglyceride":{
+"test":"Tryglyceride","value":"","unit":"mmo1/L","normal":"0 - 2.3 "
+},
+"hdlm":{
+"test":"HDL","value":"","unit":"mm01/L","normal":"M(>0.9) F (>1.15)"
+},
+"vldl":{
+"test":"VLDL","value":"","unit":"mmo1/L","normal":"0.40 - 0.60"
+},
+"ldl":{
+"test":"LDL","value":"","unit":"mmo1/L","normal":"0 - 4.11"
+},
+"eucr":{
+"test":"E/U/Cr","value":"","unit":"","normal":""
+},
+"creatinine":{
+"test":"Creatinene","value":"","unit":"ummo1/L","normal":"58 - 110"
+},
+"urea":{
+"test":"Urea","value":"","unit":"mmo1/L","normal":"2.8 - 7.2"
+},
+"sodium":{
+"test":"Soduim","value":"","unit":"mmo1/L","normal":"132 - 145"
+},
+"potassium":{
+"test":"Potassuim","value":"","unit":"mmo1/L","normal":"3.2 - 5.0"
+},
+"chloride":{
+"test":"Chloride","value":"","unit":"mmo1/L","normal":"96 - 108"
+},
+"bicarbonate":{
+"test":"Bicarbonate","value":"","unit":"mmo1/L","normal":"22 - 28"
+}
+},
+"hormonal_profile":{
+"fsh":{
+"test":"FSH","value":"","unit":"","normal":""
+},
+"lh":{
+"test":"LH","value":"","unit":"","normal":""
+},
+"prolactin":{
+"test":"Prolactin","value":"","unit":"","normal":""
+},
+"progesteron":{
+"test":"Projesteron","value":"","unit":"","normal":""
+},
+"estradol":{
+"test":"Estradol","value":"","unit":"","normal":""
+},
+"psa":{
+"test":"PSA","value":"","unit":"ng/ml","normal":"0 - 4"
+}
+},
+"liver_function":{
+"ast":{
+"test":"AST","value":"","unit":"U/L","normal":"0 - 35"
+},
+"alt":{
+"test":"ALT","value":"","unit":"","normal":"M(0-45U/L) F(0-34U/L)"
+},
+"alp":{
+"test":"ALP","value":"","unit":"U/L","normal":"30 - 120"
+},
+"bilirubin":{
+"test":"Bilirubin (Tot.)","value":"","unit":"umo1/L","normal":"2 - 21"
+},
+"conj_bilirubin":{
+"test":"Conj. Bilirubin","value":"","unit":"umo1/L","normal":"0 - 5.2"
+},
+"total_protein":{
+"test":"Total Protien","value":"","unit":"g/dl","normal":"66 - 83"
+},
+"albunim":{
+"test":"Albunim","value":"","unit":"g/dl","normal":"35 - 53"
+},
+"globulin":{
+"test":"Globulin","value":"","unit":"g/dl","normal":"18 - 36"
+},
+"glucose":{
+"test":"Glucose","value":"","unit":"","normal":""
+},
+"rbs":{
+"test":"RBS","value":"","unit":"mmo1/L","normal":"3.8 - 8.0"
+},
+"fbs":{
+"test":"FBS","value":"","unit":"mmo1/L","normal":"3.0 - 5.5"
+},
+"hrs2ppbs":{
+"test":"2HRS PPBS","value":"","unit":"mmo1/L","normal":"3.0 - 5.5"
+},
+"amylase":{
+"test":"Amylase","value":"","unit":"","normal":"up to 400iu/L"
+},
+"cpk":{
+"test":"CPK","value":"0 - 130iu/L","unit":"","normal":""
+},
+"gamma_glutamic":{
+"test":"Gamma Glutamic Acid","value":"","unit":"","normal":"M(<49) F(>32)"
+},
+"uric_acid":{
+"test":"Uric Acid","value":"","unit":"umo1/L","normal":"M(214 - 488)F(137- 365)"
+},
+"calcium":{
+"test":"Calcuim","value":"","unit":"mmo1/L","normal":"2.2 - 2.6"
+},
+"inorganic_phos":{
+"test":"Inorganic Phos","value":"","unit":"mmo1/L","normal":"0.96 - 1.44"
+},
+"tsh":{
+"test":"TSH","value":"","unit":"","normal":""
+}
+},
+"urinalysis":{
+"appearance":{
+"test":"Appearance","value":""
+},
+"ph":{
+"test":"PH","value":""
+},
+"protein":{
+"test":"Protien","value":""
+},
+"ketone_bodies":{
+"test":"Ketone Bodies","value":""
+},
+"nitric":{
+"test":"Nitric","value":""
+},
+"ascorbic":{
+"test":"Ascorbic","value":""
+},
+"leucocytes":{
+"test":"Leucocytes","value":""
+},
+"specific_gravity":{
+"test":"Specific Gravity","value":""
+},
+"ur_glucose":{
+"test":"Glucose","value":""
+},
+"urobilinogen":{
+"test":"Urobilinogen","value":""
+},
+"blood":{
+"test":"Blood","value":""
+},
+"crystals":{
+"test":"Crystals","value":""
+}
+}
+}
